@@ -1,4 +1,4 @@
-# Files:
+# Task:
 ```
 Given an encrypt.c file and a password-protected .pdf file, I had to find the password that was used to protect the .pdf file. 
 ```
